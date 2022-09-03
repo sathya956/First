@@ -9,5 +9,8 @@ public class First extends Second{
 	public static void main(String[] args) {
 		
 	}
+	public void kingKong() {
+		System.out.println("it ia an animal");
+	}
 }
 
